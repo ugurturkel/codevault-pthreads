@@ -1,3 +1,6 @@
+/* create multiple threads in a loop
+ * */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>

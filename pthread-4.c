@@ -1,3 +1,7 @@
+/*
+ * return a value from thread
+ */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <pthread.h>

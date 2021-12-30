@@ -1,6 +1,8 @@
 /* 
  * create 10 threads, each taking a unique prime from the primes array
  * and print it on the screen
+ *
+ * basically pass an arguement to a thread
  */
 
 #include <stdlib.h>
